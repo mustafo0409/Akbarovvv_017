@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    background-color: cadetblue;
+ border-radius: 30px;
+ border: 5px solid red;
+}
+#small{
+    background-color: yellow;
+}
+#Tesla{
+    color: red;
+}
+#H1{
+    color: green;
+}
+#H2{
+    color: red;
+}
+#H3{
+    color: yellow;
+}
+#H4{
+    color: green;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+caption{
+    background-color: yellow;
+}
+th{
+    background-color: red;
+}
+#h11{
+background-color: green;
+}
+#h12{
+   background-color: darkorchid; 
+}
+button{
+    width: 250px;
+    background-color: chartreuse;
+}
